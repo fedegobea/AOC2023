@@ -3,4 +3,5 @@ go 1.21.4
 use (
 	"./go/day1"
 	"./go/day2"
+	"./go/day3"
 )
