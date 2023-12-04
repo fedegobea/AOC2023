@@ -4,4 +4,5 @@ use (
 	"./go/day1"
 	"./go/day2"
 	"./go/day3"
+	"./go/day4"
 )
